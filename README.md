@@ -29,7 +29,7 @@ Welcome to the Simple Python Calculator! This basic calculator is designed to pe
 4. Division: Divides one number by another.
 
 ## Example
- ``bash
+ ```
     Welcome to the Calculator!
 
     Operations:
