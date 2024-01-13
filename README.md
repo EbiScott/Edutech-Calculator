@@ -1,3 +1,4 @@
+
 # Simple Python Calculator
 
 Welcome to the Simple Python Calculator! This basic calculator is designed to perform common arithmetic operations with ease. Whether you need to add, subtract, multiply, divide, or perform multiple operations at once, this calculator has you covered.
@@ -49,5 +50,6 @@ Feel free to contribute, report issues, or suggest improvements!
 # Contributors
 Egbejule Eworitse
 
-License
+# License
 This calculator is open-source and available under the MIT License.
+
