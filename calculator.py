@@ -15,8 +15,6 @@ def division(x, y):
 
 
 
-
-
 #Main
 
 print("Welcome to the Calculator!")
@@ -40,7 +38,7 @@ else:
         print(addition(first, second))
     elif choice == 2:
         print(subtraction(first, second))
-    elif:
+    elif choice == 3:
         print(multiplication(first, second))
     elif choice == 4:
         print(division(first, second))
